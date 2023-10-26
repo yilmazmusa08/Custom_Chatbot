@@ -1,0 +1,48 @@
+
+Title: Comprehensive List of Prompts, Questions, and Answers for a Chatbot
+
+Introduction:
+In order to enhance the conversational abilities of a chatbot, it is important to equip it with a wide range of prompts, questions, and appropriate responses. This article aims to provide a comprehensive list of prompts, questions, and answers that a chatbot can utilize to gather information from the user. Specifically, the chatbot will seek to know the school the student will attend, the date ranges of their stay, and their approximate budget for accommodation. These prompts, questions, and answers can be tailored and integrated into a chatbot's dialogue system to enable effective communication with users.
+
+    Prompts and Questions:
+
+1.1 School Information:
+
+    Which school will you be attending?
+    Can you please provide the name of your school?
+    May I know the educational institution you will be enrolled in?
+
+1.2 Stay Duration:
+
+    What are the specific dates of your stay?
+    Could you please mention the start and end dates of your visit?
+    In which date ranges will you be staying?
+
+1.3 Accommodation Budget:
+
+    Do you have an approximate budget in mind for your accommodation?
+    Can you let me know your expected budget for accommodation?
+    How much are you willing to spend on your lodging?
+
+    Possible Answers:
+
+2.1 School Information:
+
+    "I will be attending [School Name]."
+    "The school I'm enrolled in is [School Name]."
+    "The educational institution I'll be going to is [School Name]."
+
+2.2 Stay Duration:
+
+    "I will be staying from [Start Date] to [End Date]."
+    "My stay will be from [Start Date] until [End Date]."
+    "The dates of my visit are from [Start Date] to [End Date]."
+
+2.3 Accommodation Budget:
+
+    "I have approximately [Budget Amount] set aside for accommodation."
+    "My budget for lodging is around [Budget Amount]."
+    "I'm planning to spend about [Budget Amount] on my accommodation."
+
+Conclusion:
+By incorporating the aforementioned prompts, questions, and answers into the dialogue system of a chatbot, it will be better equipped to gather necessary information from users. These queries cover the key aspects of school attendance, stay duration, and accommodation budget, enabling the chatbot to provide relevant assistance and tailored recommendations. Remember that this list can be expanded and customized based on the specific needs and requirements of the chatbot's application.

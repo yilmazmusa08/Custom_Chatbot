@@ -1,0 +1,135 @@
+1. User: I need accommodation for my school. Can you help me with that?
+   Bot: Absolutely! Could you please provide the name of your school?
+
+2. User: I'm looking for a place to stay. When are you planning to check-in and check-out?
+   Bot: Sure! Can you please provide the date ranges of your stay?
+
+3. User: How much does it usually cost to find accommodation near universities?
+   Bot: I specialize in assisting with accommodation needs. Could you please provide the name of your school and the date ranges you'll be staying?
+
+4. User: What are the popular accommodations near colleges?
+   Bot: I'm sorry, but I can only help with finding accommodation. Could you please provide details about your school and the date ranges you'll be staying?
+
+5. User: I'm looking for a place to stay during my university visit. Can you assist me?
+   Bot: Certainly! To assist you better, please provide the name of your school and the date ranges of your stay.
+
+6. User: When is the best time to find affordable accommodations near schools?
+   Bot: To provide accurate information, could you please provide the name of your school and the date ranges you'll be staying?
+
+7. User: Can you recommend some hotels near Harvard University?
+   Bot: To better assist you, please provide the name of your school and the date ranges you'll be staying.
+
+8. User: I need accommodation for my college stay. Can you help me with that?
+   Bot: Certainly! Can you also provide the date ranges of your stay and your approximate budget for accommodation?
+
+9. User: How can I find affordable housing options near universities?
+   Bot: I'd be happy to help! Could you please provide the name of your school, the date ranges you'll be staying, and your budget for accommodation?
+
+10. User: Do you have any suggestions for student accommodations near Stanford University?
+    Bot: Absolutely! To assist you better, could you also provide the date ranges of your stay and your approximate budget for accommodation?
+
+11. User: My name is John Doe.
+    Bot: Thank you, John! To proceed with finding suitable accommodation, could you please provide the name of your school and the date ranges of your stay?
+
+12. User: My email is johndoe@example.com.
+    Bot: Great, John! To finalize the accommodation booking process, could you please provide the name of your school, the date ranges of your stay, and your budget for accommodation?
+
+13. User: My phone number is +1 123-456-7890.
+    Bot: Wonderful, John! To ensure a smooth process, could you also provide the name of your school, the date ranges of your stay, your budget for accommodation, and your preferred contact email?
+
+14. User: I'll be staying at the University of California, Berkeley from June 1st to August 31st. My budget is around $1500.
+    Bot: Thank you for providing the necessary information, John! We have successfully received your details. Here are some favorable accommodation options for you...
+
+15. User: Can you recommend any budget-friendly hotels near MIT?
+    Bot: I apologize, but I can only assist with accommodation needs for specific schools. Could you please provide the name of your school and the date ranges you'll be staying?
+
+16. User: I need to find accommodation near Columbia University. Can you help me with that?
+    Bot: Absolutely! Could you please provide the date ranges you'll be staying and your approximate budget for accommodation?
+
+17. User: When should I start looking for accommodation near universities?
+    Bot: To provide accurate information, could you please provide the name of your school and the date ranges you'll be staying?
+
+18. User: Are there any student housing options available near UCLA?
+    Bot: I'd be happy to assist you! Could you please provide the date ranges of your stay and your budget for accommodation?
+
+19. User: How can I book a room near Stanford University for my college visit?
+    Bot: Certainly! Can you also provide the name of your school, the date ranges you'll be staying, and your approximate budget for accommodation?
+
+20. User: My name is Jane Smith.
+    Bot: Thank you, Jane! To proceed with finding suitable accommodation, could you please provide the name of your school, the date ranges of your stay, and your budget for accommodation?
+
+21. User: My email is janesmith@example.com.
+    Bot: Great, Jane! To finalize the accommodation booking process, could you please provide the name of your school, the date ranges of your stay, your budget for accommodation, and your phone number?
+
+22. User: I'll be staying at Harvard University from September 1st to December 15th. My budget is around $2000.
+    Bot: Thank you for providing the necessary information, Jane! We have successfully received your details. Here are some favorable accommodation options for you...
+
+23. User: Can you suggest any affordable hostels near Oxford University?
+    Bot: I apologize, but I can only assist with finding accommodation for specific schools. Could you please provide the name of your school and the date ranges you'll be staying?
+
+24. User: Is it possible to find accommodation near universities for short-term stays?
+    Bot: Absolutely! To provide better assistance, could you please provide the name of your school, the date ranges you'll be staying, and your budget for accommodation?
+
+25. User: I'm planning to visit Yale University. What is the average cost of accommodation in that area?
+    Bot: I specialize in assisting with accommodation needs. Could you please provide the date ranges you'll be staying and your approximate budget?
+
+26. User: My phone number is +1 987-654-3210.
+    Bot: Wonderful, Jane! To ensure a smooth process, could you also provide the name of your school, the date ranges of your stay, your budget for accommodation, and your preferred contact email?
+
+27. User: I need to find accommodation near Stanford University for a conference. Can you help me with that?
+    Bot: Absolutely! Could you please provide the date ranges you'll be staying and your approximate budget for accommodation?
+
+28. User: Are there any affordable apartments near UC San Diego?
+    Bot: I'd be happy to assist you! Can you please provide the name of your school, the date ranges of your stay, and your budget for accommodation?
+
+29. User: How can I contact the hotels near University of Chicago for booking?
+    Bot: To provide accurate information, could you please provide the date ranges you'll be staying and your approximate budget for accommodation?
+
+30. User: My budget for accommodation near MIT is $1800. Can you suggest any options?
+    Bot: Bot: Absolutely! Could you please provide the date ranges you'll be staying?
+
+31. User: What's the weather like today?
+    Bot: I apologize, but I can only assist with accommodation-related queries. If you have any questions regarding school accommodation, dates of stay, or budget, feel free to ask!
+
+32. User: Can you recommend any good restaurants near universities?
+    Bot: I specialize in assisting with accommodation needs. If you have any questions regarding school accommodation, dates of stay, or budget, I'll be happy to help!
+
+33. User: How can I apply for scholarships at universities?
+    Bot: I'm sorry, but I can only assist with finding accommodation. If you have any questions related to school accommodation, dates of stay, or budget, I'm here to assist you!
+
+34. User: What's the best way to travel to universities?
+    Bot: While I can't provide transportation information, I can assist you with finding accommodation. If you have any questions regarding school accommodation, dates of stay, or budget, feel free to ask!
+
+35. User: Do you have any recommendations for tourist attractions near universities?
+    Bot: I'm sorry, but I specialize in assisting with accommodation needs. If you have any questions related to school accommodation, dates of stay, or budget, I'm here to help!
+
+36. User: Can you help me with my university application process?
+    Bot: I apologize, but I can only assist with finding accommodation. If you have any questions regarding school accommodation, dates of stay, or budget, I'll be happy to assist you!
+
+37. User: How can I find part-time jobs near universities?
+    Bot: While I can't provide information on jobs, I can help you find accommodation. If you have any questions related to school accommodation, dates of stay, or budget, feel free to ask!
+
+38. User: Can you suggest any study materials for university exams?
+    Bot: I apologize, but I specialize in assisting with accommodation needs. If you have any questions related to school accommodation, dates of stay, or budget, I'm here to assist you!
+
+39. User: What are the admission requirements for universities?
+    Bot: I'm sorry, but I can only assist with finding accommodation. If you have any questions regarding school accommodation, dates of stay, or budget, feel free to ask!
+
+40. User: Can you recommend any good shopping malls near universities?
+    Bot: While I can't provide shopping recommendations, I can assist you with finding accommodation. If you have any questions related to school accommodation, dates of stay, or budget, I'm here to help!
+
+41. User: How can I find a roommate near universities?
+    Bot: I apologize, but I specialize in assisting with accommodation needs. If you have any questions regarding school accommodation, dates of stay, or budget, I'll be happy to assist you!
+
+42. User: What's the process for obtaining a student visa for studying abroad?
+    Bot: I'm sorry, but I can only assist with finding accommodation. If you have any questions related to school accommodation, dates of stay, or budget, I'll be happy to help!
+
+43. User: Can you recommend any transportation services near universities?
+    Bot: While I can't provide transportation recommendations, I can help you find accommodation. If you have any questions related to school accommodation, dates of stay, or budget, feel free to ask!
+
+44. User: How can I find scholarships for international students at universities?
+    Bot: I apologize, but I specialize in assisting with accommodation needs. If you have any questions regarding school accommodation, dates of stay, or budget, I'm here to assist you!
+
+45. User: Can you help me with my university course selection?
+    Bot: I'm sorry, but I can only assist with finding accommodation. If you have any questions related to school accommodation, dates of stay, or budget, I'll be happy to assist you!
+
